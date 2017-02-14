@@ -1,0 +1,35 @@
+
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", sans-serif;
+  border: 20px solid rgba(150, 36, 36, 1);
+  text-align: center;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+#header {
+  font-size: 68px;
+  margin-top: 50px;
+  font-weight: normal;
+}
+
+
+#msg {
+ font-family: 'Tangerine', serif;
+  font-size: 50px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+#button {
+  border-radius: 30px;
+  height: 40px;
+  width: 335px; 
+  background-color: rgba(150, 36, 36, 1);
+  font-size: 20px;
+  color: #ffffff;
+  margin:0 auto;
+  padding-top: 15px;
+  margin-bottom: 50px;
+}
